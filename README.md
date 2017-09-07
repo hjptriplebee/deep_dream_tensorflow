@@ -1,5 +1,7 @@
 # deep_dream_tensorflow
-An implement of google deep dream with tensorflow. Demo:
+An implement of google deep dream with tensorflow. Detailed description can be found [here](http://blog.csdn.net/accepthjp/article/details/77882814)
+
+Demo:
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/hjptriplebee/deep_dream_tensorflow/master/nature_image.jpg" width="30%">
